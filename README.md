@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Armaan
 
 *ME*
+
 *3D Design & Manufacturing (SolidWorks, CAD/CAM)*
 *Rocket Fuel R1 research* PhD project with my prof.(thnx to him )
 *AI/ML*
+
 
 
 
