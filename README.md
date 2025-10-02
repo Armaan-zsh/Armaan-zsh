@@ -1,16 +1,3 @@
-Armaan-zsh
-
-*ME*
-
-*3D Design & Manufacturing (SolidWorks, CAD/CAM)*
-
-*Rocket Fuel R1 research* PhD project with my prof.(thnx to him )
-
-*AI/ML*
-
-**currently looking for a mentor to work with**
-
-
 Contact me
 33916@proton.me
 
