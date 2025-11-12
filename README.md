@@ -1,36 +1,64 @@
-# Hey there
+# 🐧 Vim-Powered Linux Sorcerer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8B008B&text=Welcome%20to%20My%20World&fontColor=ffffff&fontSize=40&height=120" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&text=Terminal+Mastery&fontColor=ffffff&fontSize=40&height=120" />
 </p>
 
-I'm diving deep into the command line cosmos—crafting efficient workflows with **Vim** and **Neovim**, bridging worlds via **WSL**, embracing the **Linux** ethos, and weaving spells in **Python**. Lately, exploring **Machine Learning** models for predictive scripting and **Quantum Computing** simulations to push computational boundaries. No bloat, just pure, pixel-perfect productivity.
+Full-time terminal dweller, wielding **Vim** and **Neovim** like extensions of my mind. Bridging realities with **WSL**, scripting chaos into order via **Python**, and probing the edges of reality with **Machine Learning** and **Quantum Computing**. Minimalist by design, maximalist in impact.
 
 ```bash
-# Bootstrapping my daily ritual
-alias vim='nvim'
-echo "export PATH=$PATH:~/.local/bin" >> ~/.bashrc
-python -c "import torch; print('Quantum-ready ML pipeline engaged! 🚀')"
+# Igniting the session
+export EDITOR=nvim
+source ~/.zshrc  # zsh for that extra zing
+python -m venv quantum_ml_env && source quantum_ml_env/bin/activate
+pip install torch qiskit numpy
+echo "Warp drive engaged. Ready for entanglement."
 ```
 
-## Toolkit Arsenal 🔧
+## Arsenal of Choice 🔧
 
-| Category | Favorites |
-|----------|-----------|
-| **Editor** | Vim, Neovim (with LazyVim config) |
-| **OS/Env** | Linux (Arch btw), WSL2 for hybrid hacks |
-| **Lang/Core** | Python (scripts & ML pipelines) |
-| **Advanced** | PyTorch for ML, Qiskit for quantum sims |
-| **Extras** | tmux, zsh, git-fugitive |
+| Domain | Weapons |
+|--------|---------|
+| **Editing** | Neovim (LazyVim distro), Vim (modal mastery) |
+| **Environment** | Arch Linux, WSL2 (Ubuntu/Debian hybrids) |
+| **Scripting** | Python 3.x (automation & data wrangling) |
+| **AI/ML** | PyTorch, TensorFlow, scikit-learn |
+| **Quantum** | Qiskit, Cirq (IBM & Google stacks) |
+| **Terminal** | tmux, zsh + Oh My Zsh, fzf |
 
-## Currently Hacking On
--  Custom Neovim plugins for Python linting
--  ML-driven automation in WSL setups
--  Quantum circuit experiments with Qiskit
--  Linux dotfiles repo (minimalist AF)
--  TensorFlow models for sys-level optimization
+## In the Forge
+- ⚡ Neovim LSP configs for PyTorch & Qiskit debugging
+- 🧠 ML models optimizing Linux kernel tweaks
+- 🔮 Quantum algorithms simulated in WSL for hybrid cloud runs
+- 🐍 Python CLI tools for dotfile management
+- 📊 Benchmarking Vim vs. IDEs in ML workflows
+
+### Skills Radar
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Trophy" />
+</p>
+
+<div align="center">
+  <details open>
+    <summary>Tech Stack</summary>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Qiskit-9C27B0?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
+    <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WSL" />
+  </details>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4B0082" alt="Profile Views" />
+</p>
 
 ---
 
-*Last synced: November 12, 2025*  
-*Built with ❤️ in the shell*
+*Forged in the CLI | Last commit: November 12, 2025*
