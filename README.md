@@ -1,15 +1,50 @@
-<h1 align="center">🧠 Vim & Neovim | Living inside WSL 🐧</h1>
+<!-- your README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FF99&center=true&vCenter=true&width=435&lines=$+neofetch;OS:+Windows+Subsystem+for+Linux;Editor:+Neovim+(ofc);Shell:+bash+%7C+zsh;Motto:+:%20wq%20and%20prosper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=435&lines=nvim+README.md;:wq+and+prosper;powered+by+Vim+motions+⚡" alt="Typing SVG" />
 </p>
+============================================================================
+" File: README.md
+" Author: YOURUSERNAME
+" Description: My Neovim life inside WSL 🧠
+" ============================================================================
+
+let g:dev = {
+\ 'os': 'Windows Subsystem for Linux',
+\ 'editor': 'Neovim (ofc)',
+\ 'shell': 'bash | zsh',
+\ 'plugins': ['telescope.nvim', 'nvim-tree', 'lualine', 'cmp-nvim', 'lazy.nvim'],
+}
+
+echo "Welcome to my config, traveler 🐧"
+
 
 ---
 
-```bash
-> whoami
+```lua
+-- 🧠 whoami
+return {
+  dev = "Vim & Neovim Enthusiast",
+  env = "WSL + Linux + Tmux",
+  motto = ":wq and conquer",
+}
+
 > uname -a
 Linux WSL 6.x (Ubuntu-based) x86_64 GNU/Linux
-> top
-> fortune | cowsay
-“Learn Vim.”
--- Some wise dev 🐮
+> nvim --version
+NVIM v0.9.5
+Build type: Release
+LuaJIT 2.1.0-beta3
+
+" Plugins I live in:
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-tree/nvim-tree.lua'
+Plug 'nvim-lualine/lualine.nvim'
+Plug 'hrsh7th/nvim-cmp'
+Plug 'nvim-treesitter/nvim-treesitter'
+
+" ============================================================================
+" Statusline
+" ============================================================================
+[NORMAL] README.md +1  main  |  WSL • Neovim  |  UTF-8 LF  |  100%  
+
+<h3 align="center">💚 :wq — exit and be productive 💚</h3> <p align="center"> <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="200" /> </p> ```
