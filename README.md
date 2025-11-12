@@ -10,13 +10,6 @@
 
 I'm diving deep into the command line cosmos—crafting efficient workflows with **Vim** and **Neovim**, bridging worlds via **WSL**, embracing the **Linux** ethos, and weaving spells in **Python**. No bloat, just pure, pixel-perfect productivity.
 
-```bash
-# Bootstrapping my daily ritual
-alias vim='nvim'
-echo "export PATH=$PATH:~/.local/bin" >> ~/.bashrc
-python -c "print('Hello, Terminal! 🚀')"
-```
-
 ![Typing Animation](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) <!-- Subtle Vim typing vibe for that eye-catching flow -->
 
 ## Toolkit Arsenal 🔧
