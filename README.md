@@ -1,4 +1,4 @@
-# Hey there, Terminal Tinkerer! 🐧✨
+# Hey there🐧✨
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8B008B&text=Welcome%20to%20My%20World&animation=twinkling&fontColor=ffffff&fontSize=40&height=120" />
