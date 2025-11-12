@@ -1,16 +1,17 @@
-# Hey there🐧✨
+# Hey there, Terminal Tinkerer! 🐧✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8B008B&text=Welcome%20to%20My%20World&animation=twinkling&fontColor=ffffff&fontSize=40&height=120" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8B008B&text=Welcome%20to%20My%20World&fontColor=ffffff&fontSize=40&height=120" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&random=false&width=435&lines=Linux+Enthusiast+%F0%9F%90%87;Vim+%26+Neovim+Wizard+%F0%9F%9A%80;WSL+Bridge+Builder+%F0%9F%8E%9D;Python+Scripting+Sorcerer+%F0%9F%90%9D;Keeping+It+Clean+%26+Minimal+%F0%9F%8C%B1" />
-</div>
+I'm diving deep into the command line cosmos—crafting efficient workflows with **Vim** and **Neovim**, bridging worlds via **WSL**, embracing the **Linux** ethos, and weaving spells in **Python**. Lately, exploring **Machine Learning** models for predictive scripting and **Quantum Computing** simulations to push computational boundaries. No bloat, just pure, pixel-perfect productivity.
 
-I'm diving deep into the command line cosmos—crafting efficient workflows with **Vim** and **Neovim**, bridging worlds via **WSL**, embracing the **Linux** ethos, and weaving spells in **Python**. No bloat, just pure, pixel-perfect productivity.
-
-![Typing Animation](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) <!-- Subtle Vim typing vibe for that eye-catching flow -->
+```bash
+# Bootstrapping my daily ritual
+alias vim='nvim'
+echo "export PATH=$PATH:~/.local/bin" >> ~/.bashrc
+python -c "import torch; print('Quantum-ready ML pipeline engaged! 🚀')"
+```
 
 ## Toolkit Arsenal 🔧
 
@@ -18,14 +19,16 @@ I'm diving deep into the command line cosmos—crafting efficient workflows with
 |----------|-----------|
 | **Editor** | Vim, Neovim (with LazyVim config) |
 | **OS/Env** | Linux (Arch btw), WSL2 for hybrid hacks |
-| **Lang** | Python (scripts that do the heavy lifting) |
+| **Lang/Core** | Python (scripts & ML pipelines) |
+| **Advanced** | PyTorch for ML, Qiskit for quantum sims |
 | **Extras** | tmux, zsh, git-fugitive |
 
 ## Currently Hacking On
 - 🔧 Custom Neovim plugins for Python linting
-- 🐍 Automating WSL setups with Ansible playbooks
+- 🐍 ML-driven automation in WSL setups
+- ⚛️ Quantum circuit experiments with Qiskit
 - 📱 Linux dotfiles repo (minimalist AF)
-- 🌐 Exploring Rust for sys-level fun (dipping toes)
+- 🌐 TensorFlow models for sys-level optimization
 
 > "The terminal is my canvas; code is my brush." – Me, probably
 
