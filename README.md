@@ -33,11 +33,6 @@ echo "Warp drive engaged. Ready for entanglement."
 - 🐍 Python CLI tools for dotfile management
 - 📊 Benchmarking Vim vs. IDEs in ML workflows
 
-### Skills Radar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Trophy" />
-</p>
-
 <div align="center">
   <details open>
     <summary>Tech Stack</summary>
@@ -51,12 +46,12 @@ echo "Warp drive engaged. Ready for entanglement."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-zsh&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan-zsh&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4B0082" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Armaan-zsh&style=flat-square&color=4B0082" alt="Profile Views" />
 </p>
 
 ---
