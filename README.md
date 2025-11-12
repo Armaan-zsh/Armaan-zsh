@@ -1,14 +1,22 @@
-![Antarctica Analog Clock](https://i.imgur.com/placeholder-analog-clock-antarctica.png)
-
 # 🐧 Vim-Powered Linux Sorcerer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&text=Terminal+Mastery&fontColor=ffffff&fontSize=40&height=120" />
-  <br>
-  <img src="https://i.imgur.com/placeholder-analog-clock-antarctica.png" alt="Antarctica Time - Analog Clock" width="200" />
 </p>
 
-Full-time terminal dweller, wielding **Vim** and **Neovim** like extensions of my mind. Bridging realities with **WSL**, scripting chaos into order via **Python**, and probing the edges of reality with **Machine Learning** and **Quantum Computing**. Minimalist by design, maximalist in impact. Keeping time in the frozen south – Antarctica UTC.
+<p align="center">
+  <strong>Time in Antarctica (UTC+12)</strong><br>
+  ```
+    +---+
+    |0 2|
+    |7 6|
+    +---+
+    |3 2|
+    +---+
+  ```
+</p>
+
+Full-time terminal dweller, wielding **Vim** and **Neovim** like extensions of my mind. Bridging realities with **WSL**, scripting chaos into order via **Python**, and probing the edges of reality with **Machine Learning** and **Quantum Computing**. Minimalist by design, maximalist in impact.
 
 ```bash
 # Igniting the session
