@@ -1,35 +1,56 @@
-Hi there, I'm Armaan 👋
-I'm a Mechanical Engineering student who's passionate about the intersection of physical systems and deep code. By day, I'm learning to build the future of machines, and by night, I'm diving into cybersecurity, machine learning, and systems programming.
+<div align="center">
+  <img src="https" alt="Armaan-zsh"/>
+</div>
 
-I'm always looking for a challenge, whether it's in a CTF, an ML model, or a new open-source project.
+<div align="center">
+  <a href="https://github.com/Armaan-zsh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=435&lines=Initializing+system...;Access+granted.;Welcome%2C+Armaan-zsh" alt="Typing SVG" />
+  </a>
+</div>
 
-🔭 What I do: I'm a full-time Mechanical Engineering student.
+<br>
 
-💻 What I love: "Vibe coding," red team hacking, and building intelligent systems with ML.
+---
 
-🌱 What I'm learning: I'm currently diving deeper into:
+### `[SYSTEM_STATUS: LOADING_PROFILE]`
 
-Cybersecurity & CTF Strategies
+```bash
+> whoami
+Armaan-zsh
 
-Machine Learning Principles
+> file /usr/bin/armaan
+/usr/bin/armaan: ELF 64-bit LSB pie executable, x86-64
+    [STACK]: [Mechanical Engineering Student]
+    [DATA]:  [Machine Learning Enthusiast]
+    [CODE]:  [Red Team Operator // Vibe Coder]
+    [LIBS]:  [lib-ctf.so, lib-ml.so, lib-opensource.so]
+[CURRENT_MISSION: STATUS_REPORT]
+My primary objective is to bridge the gap between the physical (Mechanical Engineering) and the digital (ML, Systems, & Security). I'm driven by the "vibe" of solving complex problems, whether it's in a CAD model, a neural network, or a shell.
 
-Systems programming with C, Go, and Zig
+My long-term goal? To research, build, and lead high-impact open-source projects.
 
-🎯 My goal: To research, contribute to, and eventually lead high-impact open-source projects.
+[ARSENAL: TOOLS_AND_LANGUAGES]
+My toolkit for breaking (and building) things.
 
-⚡ Fun fact: My shell of choice is Bash, and I believe it's one of the most powerful tools out there!
+<div align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="Go"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Zig-F7A41D%3Fstyle%3Dfor-the-badge%26logo%3Dzig%26logoColor%3Dwhite" alt="Zig"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </div>
 
-🚀 Languages & Tools I'm Excited About
-<p align="left"> <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </p>
+[SYSTEM_DIAGNOSTICS: GITHUB_STATS]
+Running diagnostics on all linked repositories...
 
-📊 My GitHub Stats
-These stats are generated using the GitHub Readme Stats tool found in the awesome-github-profile-readme list.
+<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArmaan-zsh%26show_icons%3Dtrue%26theme%3Ddarcula%26rank_icon%3Dgithub" alt="Armaan-zsh's GitHub Stats"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArmaan-zsh%26layout%3Dcompact%26theme%3Ddarcula" alt="Top Languages"> </p> <p align="center"> <img width="50%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DArmaan-zsh%26theme%3Ddarcula" alt="GitHub Streak Stats"> </p>
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Armaan-zsh&show_icons=true&theme=radical" alt="Armaan-zsh's GitHub Stats"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan-zsh&layout=compact&theme=radical" alt="Top Languages"> </p> <p align="center"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Armaan-zsh&theme=radical" alt="GitHub Streak Stats"> </p>
+[RANDOM_TRANSMISSION: JOKE_OF_THE_DAY]
+Pulling a random packet...
 
-📬 How to Reach Me
-(Feel free to add your own links here!)
+<div align="center"> <img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Ddarcula" alt="Random Dev Joke"/> </div>
 
-<p align="left"> <a href="https://github.com/Armaan-zsh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/YOUR_USERNAME_HERE" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/YOUR_USERNAME_HERE" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </p>
+[CONTACT: ESTABLISH_CONNECTION]
+Find me on other networks or send a secure signal.
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Armaan-zsh.Armaan-zsh" alt="Visitor Badge"/> </p>                  
+<p align="center"> <a href="httpsNext_Step: You can customize the theme= parameter in the image URLs (e.g., theme=radical, theme=merko, theme=tokyonight) to get a different color scheme. I used darcula to fit the hacker-terminal vibe.
+
+Let me know what you think of this one.://https://www.google.com/search?q=github.com/Armaan-zsh" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_USERNAME" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"> </a> <a href="https://twitter.com/YOUR_USERNAME" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"> </a>
+
+</p>
+
+<p align="center"> <img src="https://www.google.com/search?q=https://visitor-badge.glitch.me/badge%3Fpage_id%3DArmaan-zsh.Armaan-zsh%26left_text%3Dvisitors" alt="Visitor Badge"/> </p>
