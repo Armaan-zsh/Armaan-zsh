@@ -4,15 +4,6 @@ A Mechanical Engineering student exploring the intersection of physical systems 
 
 My goal is to contribute to and lead high-impact open-source projects.
 
-<p align="left">
-  <a href="https{YOUR_LINKEDIN_URL}" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https{YOUR_TWITTER_URL}" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</p>
-
 ---
 
 <details>
